@@ -31,7 +31,7 @@ export default {
           formData.append('file', this.file);
           console.log('file')
           console.log(this.file)
-          this.$http.post('http://webbidirectionalalicejavatransformation.azurewebsites.net/api/FileUpload', formData,
+          this.$http.post('https://webbidirectionalalicejavatransformation.azurewebsites.net/api/FileUpload', formData,
   {
     headers: {
         'Content-Type': 'multipart/form-data'
