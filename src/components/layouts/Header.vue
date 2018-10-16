@@ -7,6 +7,8 @@
             <li role="presentation"><a href="#/About">About</a></li>
             <li role="presentation"><a href="#/Contact">Contact</a></li>
             <li role="presentation"><a href="#/uploadFile">Upload File</a></li>
+            <li role="presentation"><a href="#/returnFileContent">Return File Content</a></li>
+            
             
           </ul>
         </nav>
